@@ -9,7 +9,7 @@ A course that consists of 4 weeks provided by University of Michigan on Coursera
    * Data structures (Data Frame, Series, ..) 
    * Querying structures
 * Week 3: Advanced Pandas
-   * Merging Data Frames, generate summary tables, group data into logical pieces
+   * Merging Data Frames, generating summary tables, grouping data into logical pieces
    * Dates manipulation
    * Scales
 * Week 4: Statistical Analysis
