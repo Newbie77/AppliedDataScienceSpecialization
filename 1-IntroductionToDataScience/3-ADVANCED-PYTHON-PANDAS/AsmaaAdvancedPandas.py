@@ -5,7 +5,7 @@
 import pandas as pd
 import numpy as np
 
-# MARGING DATA FRAMES
+# MERGING DATA FRAMES
 
 data = pd.DataFrame([{'name': 'asmaa', 'surname': 'mirkhan', 'city': 'istanbul'},
                      {'name': 'esma', 'surname': 'mirhan', 'city': 'damascus'},

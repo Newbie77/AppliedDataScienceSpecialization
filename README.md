@@ -17,6 +17,7 @@ This **skills-based** specialization is intended for learners who have a basic p
 ## Repo Contents
 * Lectures of the instructor 
 * Files added by the instructor (csv, xls, etc..)
+* Codes and notebooks added by the instructor
 * My own codes while applying skills (format: 'AsmaaXXXX.py')
 * My brief notes during the courses (Very poor since courses are code-based)
 

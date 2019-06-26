@@ -71,7 +71,7 @@ print(dr)
 
 # use date range as an index for data frame
 data = pd.DataFrame({'Num 1':  np.random.randint(0, 30, 7).cumsum(),
-                     'Count 2': np.random.randint(0, 60, 7)}, index=dr)
+                     'Num 2': np.random.randint(0, 60, 7)}, index=dr)
 
 
 print(data)
