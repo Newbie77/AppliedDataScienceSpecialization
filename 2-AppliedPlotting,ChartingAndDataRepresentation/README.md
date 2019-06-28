@@ -2,7 +2,7 @@
 A 4-Week course provided by University of Michigan on Coursera and explained by Christopher Brooks. 
 
 ## Topics Covered
-* Week 1: Principles of Information Visualizatio
+* Week 1: Principles of Information Visualization
 * Week 2: Basic Charting
 * Week 3: Charting Fundamentals
 * Week 4: Applied Visualizations
