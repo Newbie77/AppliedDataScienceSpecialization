@@ -58,7 +58,7 @@ reg = KNeighborsRegressor(n_neighbors = 1).fit(X_train, y_train)
 print('R-squared test score: {:.3f}'
      .format(reg.score(X_test, y_test)))
 # Output: R-squared test score: 0.155
-# underfitting
+# overfitting
 
 # try K=60
 reg = KNeighborsRegressor(n_neighbors = 60).fit(X_train, y_train)
@@ -66,4 +66,4 @@ print('R-squared test score: {:.3f}'
      .format(reg.score(X_test, y_test)))
 
 # Output: R-squared test score: 0.322
-
+# underfitting
