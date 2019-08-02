@@ -1,4 +1,4 @@
-# Applied Plotting, Charting & Data Representation in Python
+# Applied Machine Learning in Python
 A 4-Week course provided by University of Michigan on Coursera
 
 ## Topics Covered
